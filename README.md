@@ -16,7 +16,7 @@ I love developing in Java, C# and Kotlin, and I'm keen to learn more technologie
 * 👾NoSQL Databases and Data Warehousing
 
 ## I'm Working On
-I'm creating a workout tracking and training cycle planning Android app called LightWeight for my Honors Project.
+I'm creating a workout tracking and training cycle planning Android app called LightWeight for my Honours Project.
 
 ## Recent Modules Taken
 3rd Year:

@@ -1,6 +1,6 @@
 # Hi! I'm Manus.
 ## Info🦔
-My name is Manus McColgan, I'm a Software Engineering student at the University of Stirling, scheduled to graduate in 2023.
+My name is Manus McColgan, I'm a Software Engineering student at the University of Stirling, scheduled to graduate in June 2023.
 I love developing in Java, C# and Kotlin, and I'm keen to learn more technologies.
 
 ## Skills
@@ -10,9 +10,7 @@ I love developing in Java, C# and Kotlin, and I'm keen to learn more technologie
 * Android Studio
 
 ## I'm Learning
-* 🔐Computer Security and Networks
 * 📱Android App Development
-* 🤖Artificial Intelligence
 * 👾NoSQL Databases and Data Warehousing
 
 ## I'm Working On

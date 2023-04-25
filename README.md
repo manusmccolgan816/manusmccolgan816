@@ -7,16 +7,28 @@ I love developing in Java, C# and Kotlin, and I'm keen to learn more technologie
 * Java
 * C#
 * Kotlin
-* Android Studio
+* SQL
+* MongoDB
+* Android Dev
 
 ## I'm Learning
-* 📱Android App Development
-* 👾NoSQL Databases and Data Warehousing
+* 🌐Web development
 
 ## I'm Working On
-I'm creating a workout tracking and training cycle planning Android app called LightWeight for my Honours Project.
+Having submitted my Honours Project, which is a workout tracking and planning Android app, I am now refactoring and adding to
+the app to submit it on the Play Store.
 
 ## Recent Modules Taken
+4th Year:
+
+👉Computer Security and Networks
+
+👉Artificial Intelligence (mostly optimisation algorithms)
+
+👉Android App Development
+
+👉NoSQL Databases and Data Warehousing
+
 3rd Year:
 
 👉Operating Systems Concurrency and Distribution

@@ -16,7 +16,7 @@ I love developing in Java, C# and Kotlin, and I'm keen to learn more technologie
 
 ## I'm Working On
 Having submitted my Honours Project, which is a workout tracking and planning Android app, I am now refactoring and adding to
-the app to submit it on the Play Store.
+the app to eventually release it on the Play Store.
 
 ## Recent Modules Taken
 4th Year:
